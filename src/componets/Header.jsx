@@ -54,6 +54,7 @@ export default function Header(){
     justifyContent="center"
     boxShadow="sm"
     position="fixed"
+    
     >
         <HStack w="7xl" h="full" justifyContent="space-between" >
             <HStack spacing="8">
