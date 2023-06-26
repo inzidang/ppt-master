@@ -98,6 +98,7 @@ export default function Home() {
                 </Slider>
             </Box>
         </VStack>
+        {/*추가하기*/}
 
     </>
 }
